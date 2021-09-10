@@ -13,5 +13,6 @@ namespace BrandNew01.Models
         public string firstName { get; set; }
         public string lastName { get; set; }
         public string iban { get; set; }
+        public decimal balance { get; set; }
     }
 }
