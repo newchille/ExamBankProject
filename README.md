@@ -1,4 +1,4 @@
 # ExamBankProject
-Add table account to use with application by using script in "tbAccountsScript" file
+Add DB using "BankExamScript.sql" file
 
 Edit connection on ApplicationDbContext in project
